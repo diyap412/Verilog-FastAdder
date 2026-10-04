@@ -1,5 +1,3 @@
-# Verilog-FastAdder
-
 # Verilog FastAdder
 
 **Verilog FastAdder** is a high-speed, configurable-width adder implemented in SystemVerilog. The design uses a pipelined architecture to improve timing performance while supporting multiple adder widths.
